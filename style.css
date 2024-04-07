@@ -184,6 +184,11 @@ html {
     font-size: 30px;
     margin-bottom: 10px;
 }
+.sobremi .fila .col .contenedor-intereses .interes span {
+    text-align: center;
+    font-size: 12px;
+}
+
 .sobremi button{
     cursor: pointer;
     background-color: transparent;
